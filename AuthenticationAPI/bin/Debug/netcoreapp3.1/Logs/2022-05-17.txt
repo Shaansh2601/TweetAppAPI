@@ -1,0 +1,54 @@
+2022-05-17 14:52:42,588 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 14:52:42,601 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 14:52:42,605 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 14:52:42,608 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 14:52:42,614 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 14:52:42,616 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 14:55:32,358 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 14:55:32,366 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 14:55:32,371 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 14:55:32,373 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 14:55:32,376 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 14:55:32,379 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 14:56:15,017 INFO  [6] AuthenticationAPI.Controllers.AuthenticationController  App  Login Method called in Authentication Controller 
+2022-05-17 14:56:15,361 INFO  [6] AuthenticationAPI.Controllers.AuthenticationController  App  Check Customer Credentials Called in Customer Controller 
+2022-05-17 14:56:16,461 INFO  [6] AuthenticationAPI.Repository.AuthRepository  App  Login Method called in Login Repository 
+2022-05-17 14:56:16,491 INFO  [6] AuthenticationAPI.Repository.AuthRepository  App  Check Customer Credentials  Method Called in Authentication Repository 
+2022-05-17 15:11:53,621 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:11:53,630 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:11:53,638 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:11:53,641 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:11:53,645 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:11:53,646 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:12:15,812 INFO  [5] AuthenticationAPI.Controllers.AuthenticationController  App  Login Method called in Authentication Controller 
+2022-05-17 15:12:16,296 INFO  [5] AuthenticationAPI.Controllers.AuthenticationController  App  Check Customer Credentials Called in Customer Controller 
+2022-05-17 15:12:24,779 INFO  [5] AuthenticationAPI.Repository.AuthRepository  App  Login Method called in Login Repository 
+2022-05-17 15:12:27,594 INFO  [5] AuthenticationAPI.Repository.AuthRepository  App  Check Customer Credentials  Method Called in Authentication Repository 
+2022-05-17 15:12:57,833 INFO  [5] AuthenticationAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-17 15:52:08,334 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:52:08,344 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:52:08,349 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:52:08,352 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:52:08,358 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:52:08,361 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:53:39,865 INFO  [17] AuthenticationAPI.Controllers.AuthenticationController  App  Register called in Authentication Controller 
+2022-05-17 15:53:41,235 INFO  [17] AuthenticationAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-17 15:54:54,017 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:54:54,029 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:54:54,039 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:54:54,041 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:54:54,046 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:54:54,048 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:55:21,346 INFO  [6] AuthenticationAPI.Controllers.AuthenticationController  App  Register called in Authentication Controller 
+2022-05-17 15:55:25,710 INFO  [6] AuthenticationAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-17 15:57:01,282 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:57:01,297 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-17 15:57:01,307 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:57:01,309 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-17 15:57:01,313 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:57:01,314 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-17 15:57:44,051 INFO  [13] AuthenticationAPI.Controllers.AuthenticationController  App  Register called in Authentication Controller 
+2022-05-17 15:57:46,747 INFO  [13] AuthenticationAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-17 15:58:52,349 INFO  [6] AuthenticationAPI.Controllers.AuthenticationController  App  Register called in Authentication Controller 
+2022-05-17 15:58:53,196 INFO  [6] AuthenticationAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-17 15:58:53,261 INFO  [6] AuthenticationAPI.Repository.AuthRepository  App  CreateAccount Method Called in Auth Repository 

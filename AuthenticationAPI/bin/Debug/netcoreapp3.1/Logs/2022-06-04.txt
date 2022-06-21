@@ -1,0 +1,6 @@
+2022-06-04 22:43:07,176 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-06-04 22:43:07,192 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-06-04 22:43:07,198 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-06-04 22:43:07,200 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-06-04 22:43:07,205 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-06-04 22:43:07,207 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 

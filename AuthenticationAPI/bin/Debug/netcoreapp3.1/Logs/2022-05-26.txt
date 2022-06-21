@@ -1,0 +1,214 @@
+2022-05-26 10:14:37,306 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 10:14:37,318 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 10:14:37,322 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 10:14:37,323 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 10:14:37,326 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 10:14:37,329 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 10:48:26,357 INFO  [14] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 10:48:26,363 INFO  [14] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 10:48:26,665 INFO  [14] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 10:48:27,590 INFO  [14] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 10:48:27,592 INFO  [14] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 10:50:37,922 INFO  [22] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 10:50:39,648 INFO  [22] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 10:50:41,662 INFO  [22] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 10:50:41,694 INFO  [22] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 10:50:41,696 INFO  [22] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 10:51:59,177 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 10:51:59,187 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 10:51:59,192 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 10:51:59,193 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 10:51:59,202 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 10:51:59,203 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 10:52:13,108 INFO  [4] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 10:52:13,115 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 10:52:13,361 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 10:52:14,177 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 10:52:14,179 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 10:52:23,910 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-26 10:52:23,918 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-26 11:01:59,331 INFO  [19] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:01:59,337 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:01:59,554 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:01:59,579 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:01:59,580 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:02:04,703 INFO  [21] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-26 11:02:04,705 INFO  [21] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-26 11:03:08,363 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:03:08,368 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:03:09,019 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:03:09,032 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:03:09,034 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:03:23,517 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:03:23,702 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:05:01,685 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:05:01,694 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:05:01,700 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:05:01,703 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:05:01,707 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:05:01,708 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:05:39,127 INFO  [6] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:05:39,133 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:05:39,342 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:05:40,157 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:05:40,165 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:05:53,417 INFO  [14] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:05:53,423 INFO  [14] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:05:53,488 ERROR [14] TweetAppAPI.Repository.AuthRepository  App  Invalid include path: 'Users' - couldn't find navigation for: 'Users' 
+2022-05-26 11:05:53,519 ERROR [14] TweetAppAPI.Controllers.TweetAppController  App  Invalid include path: 'Users' - couldn't find navigation for: 'Users' 
+2022-05-26 11:06:26,883 INFO  [15] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:06:26,889 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:06:27,082 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:06:27,106 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:06:27,108 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:06:41,449 INFO  [21] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:06:41,647 INFO  [21] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:06:41,685 ERROR [21] TweetAppAPI.Repository.AuthRepository  App  Invalid include path: 'Users' - couldn't find navigation for: 'Users' 
+2022-05-26 11:07:22,217 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:07:22,227 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:07:22,231 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:07:22,233 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:07:22,237 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:07:22,239 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:08:13,715 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:08:13,721 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:08:13,933 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:08:14,758 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:08:14,760 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:08:23,561 INFO  [15] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:08:23,564 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:09:05,722 INFO  [16] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:09:05,728 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:09:05,911 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:09:05,924 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:09:05,925 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:09:24,338 INFO  [22] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:09:26,630 INFO  [22] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:11:18,221 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:11:18,229 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:11:18,237 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:11:18,239 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:11:18,243 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:11:18,245 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:12:06,768 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:12:06,774 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:12:07,408 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:12:08,218 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:12:08,224 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:12:16,195 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:12:16,408 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:12:16,468 ERROR [13] TweetAppAPI.Repository.AuthRepository  App  Invalid include path: 'UserAbstraction' - couldn't find navigation for: 'UserAbstraction' 
+2022-05-26 11:13:37,690 ERROR [13] TweetAppAPI.Controllers.TweetAppController  App  Invalid include path: 'UserAbstraction' - couldn't find navigation for: 'UserAbstraction' 
+2022-05-26 11:13:55,668 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:13:55,674 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:13:55,824 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:13:55,845 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:13:55,846 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:14:06,087 INFO  [19] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:14:06,262 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:14:06,299 ERROR [19] TweetAppAPI.Repository.AuthRepository  App  Invalid include path: 'UserAbstraction' - couldn't find navigation for: 'UserAbstraction' 
+2022-05-26 11:17:43,912 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:17:43,923 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 11:17:43,928 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:17:43,930 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 11:17:43,935 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:17:43,937 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 11:18:17,636 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:18:17,643 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:18:17,934 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:18:18,756 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:18:18,759 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:19:24,267 INFO  [16] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:19:24,824 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:21:20,917 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:21:22,243 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:21:22,913 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:21:22,935 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:21:22,937 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:22:13,205 INFO  [26] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:22:13,640 INFO  [26] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:23:40,187 INFO  [32] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:23:40,193 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:23:40,612 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:23:40,627 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:23:40,629 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:23:56,061 INFO  [34] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:23:56,068 INFO  [34] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:25:39,524 INFO  [38] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:25:39,531 INFO  [38] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:33:40,082 INFO  [47] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:33:40,089 INFO  [47] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:33:40,294 INFO  [47] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:33:40,312 INFO  [47] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:33:40,314 INFO  [47] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:36:14,891 INFO  [48] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:36:14,897 INFO  [48] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:36:15,084 INFO  [48] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:36:15,102 INFO  [48] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:36:15,104 INFO  [48] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:36:26,688 INFO  [51] TweetAppAPI.Controllers.TweetAppController  App  GetAllTweet method called in TweetApp Controller 
+2022-05-26 11:36:26,695 INFO  [51] TweetAppAPI.Repository.AuthRepository  App  GetAllTweets Method Called in Tweet Repository 
+2022-05-26 11:37:36,758 INFO  [55] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:37:36,764 INFO  [55] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:37:37,017 INFO  [55] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:37:37,033 INFO  [55] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:37:37,035 INFO  [55] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 11:41:28,091 INFO  [58] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 11:41:28,098 INFO  [58] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 11:41:28,309 INFO  [58] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 11:41:28,322 INFO  [58] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 11:41:28,323 INFO  [58] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 15:40:16,597 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 15:40:16,608 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 15:40:16,613 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 15:40:16,615 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 15:40:16,619 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 15:40:16,621 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 15:54:07,177 INFO  [12] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 15:54:07,195 INFO  [12] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 15:54:07,624 INFO  [12] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 15:54:09,074 INFO  [12] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 15:54:09,078 INFO  [12] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 15:54:13,173 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  GetAllUsers method called in TweetApp Controller 
+2022-05-26 15:54:13,176 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  GetAllUser Method Called in Tweet Repository 
+2022-05-26 15:58:37,416 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 15:58:37,426 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 15:58:37,430 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 15:58:37,432 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 15:58:37,436 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 15:58:37,438 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 15:59:09,094 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 15:59:09,110 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 15:59:09,514 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 15:59:11,141 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 15:59:11,145 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 15:59:13,250 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  GetAllUsers method called in TweetApp Controller 
+2022-05-26 15:59:13,255 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  GetAllUser Method Called in Tweet Repository 
+2022-05-26 16:00:22,011 INFO  [19] TweetAppAPI.Controllers.TweetAppController  App  GetAllUsers method called in TweetApp Controller 
+2022-05-26 16:00:25,030 INFO  [19] TweetAppAPI.Repository.AuthRepository  App  GetAllUser Method Called in Tweet Repository 
+2022-05-26 16:10:37,336 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 16:10:37,347 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-26 16:10:37,353 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 16:10:37,356 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-26 16:10:37,361 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 16:10:37,363 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-26 16:10:53,863 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 16:10:53,872 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 16:10:54,367 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 16:10:55,803 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  Wrong password entered by user shaansh2601@gmail.com 
+2022-05-26 16:13:33,969 INFO  [15] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 16:13:33,979 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 16:13:34,202 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 16:13:34,258 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 16:13:34,262 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 16:13:53,780 INFO  [18] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 16:13:53,791 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 16:13:54,230 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 16:13:54,251 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Wrong password entered by user shaansh2601@gmail.com 
+2022-05-26 16:14:08,348 INFO  [17] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-26 16:14:08,361 INFO  [17] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-26 16:14:08,620 INFO  [17] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-26 16:14:08,635 INFO  [17] TweetAppAPI.Repository.AuthRepository  App  Login Successful with Username shaansh2601@gmail.com 
+2022-05-26 16:14:08,637 INFO  [17] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-26 16:14:12,423 INFO  [15] TweetAppAPI.Controllers.TweetAppController  App  GetAllUsers method called in TweetApp Controller 
+2022-05-26 16:14:14,548 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  GetAllUser Method Called in Tweet Repository 

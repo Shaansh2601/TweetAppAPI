@@ -1,0 +1,305 @@
+2022-05-22 09:43:31,472 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:43:31,495 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:43:31,508 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:43:31,511 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:43:31,521 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:43:31,524 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:44:52,761 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:44:52,778 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:44:52,783 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:44:52,786 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:44:52,790 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:44:52,792 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:52:20,137 INFO  [5] TweetAppAPI.Controllers.TweetAppController  App  Register called in TweetApp Controller 
+2022-05-22 09:52:20,173 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-22 09:53:00,349 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:53:00,358 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 09:53:00,368 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:53:00,370 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 09:53:00,373 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:53:00,375 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 09:54:26,085 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  Register called in TweetApp Controller 
+2022-05-22 09:54:26,553 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Register Method Called in Auth Repository 
+2022-05-22 09:54:27,846 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  CreateAccount Method Called in Auth Repository 
+2022-05-22 10:00:30,616 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 10:00:30,624 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 10:00:30,631 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 10:00:30,632 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 10:00:30,639 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 10:00:30,640 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 10:31:23,276 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 10:31:23,285 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 10:31:23,297 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 10:31:23,300 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 10:31:23,306 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 10:31:23,308 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 10:32:38,778 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:32:39,317 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:32:39,336 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:32:40,929 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:37:47,908 INFO  [20] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:37:47,925 INFO  [20] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:37:47,930 INFO  [20] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:37:48,008 INFO  [20] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:39:27,356 INFO  [27] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:39:27,368 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:39:27,371 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:39:27,410 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:39:45,147 INFO  [5] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:39:46,028 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:40:54,614 INFO  [32] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:40:54,629 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:40:54,632 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:40:54,661 INFO  [32] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:41:08,141 INFO  [34] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:41:22,533 INFO  [34] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:43:59,143 INFO  [37] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:43:59,163 INFO  [37] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:43:59,178 INFO  [37] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:43:59,216 INFO  [37] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:44:12,527 INFO  [37] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:44:13,506 INFO  [37] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:44:54,020 INFO  [39] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:44:54,037 INFO  [39] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:44:54,039 INFO  [39] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:44:54,047 INFO  [39] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:45:09,171 INFO  [39] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:45:11,912 INFO  [39] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:46:12,658 INFO  [46] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:46:12,674 INFO  [46] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:46:12,678 INFO  [46] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:46:12,692 INFO  [46] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:46:26,028 INFO  [47] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:46:26,491 INFO  [47] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:47:21,827 INFO  [45] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:47:21,849 INFO  [45] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:47:21,857 INFO  [45] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:47:21,893 INFO  [45] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:47:38,806 INFO  [45] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:47:39,242 INFO  [45] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 10:48:26,673 INFO  [51] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 10:48:26,692 INFO  [51] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 10:48:26,695 INFO  [51] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 10:48:26,723 INFO  [51] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 10:48:41,190 INFO  [54] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 10:48:41,614 INFO  [54] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 11:06:31,627 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 11:06:31,642 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 11:06:31,652 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 11:06:31,655 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 11:06:31,663 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 11:06:31,665 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 11:07:12,010 INFO  [5] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 11:07:12,026 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 11:07:12,055 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 11:07:13,654 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 11:08:36,149 INFO  [16] TweetAppAPI.Controllers.TweetAppController  App  Tweet method called in TweetApp Controller 
+2022-05-22 11:08:36,566 INFO  [16] TweetAppAPI.Repository.AuthRepository  App  Tweet Method Called in Tweet Repository 
+2022-05-22 13:45:40,384 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 13:45:40,401 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 13:45:40,407 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 13:45:40,409 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 13:45:40,413 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 13:45:40,415 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 14:00:43,081 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 14:00:43,088 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 14:00:43,102 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 14:00:43,999 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 14:01:01,724 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  Update method called in TweetApp Controller 
+2022-05-22 14:01:18,972 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  Update Method Called in Tweet Repository 
+2022-05-22 14:02:36,006 INFO  [18] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-22 14:02:36,012 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-22 14:02:36,013 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-22 14:02:36,030 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-22 14:03:10,383 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  Update method called in TweetApp Controller 
+2022-05-22 14:03:15,027 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Update Method Called in Tweet Repository 
+2022-05-22 18:55:47,843 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 18:55:47,864 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 18:55:47,871 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 18:55:47,875 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 18:55:47,887 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 18:55:47,889 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 19:23:57,347 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 19:23:57,354 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 19:23:57,361 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 19:23:57,364 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 19:23:57,368 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 19:23:57,370 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 21:25:13,812 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 21:25:13,831 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 21:25:13,837 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 21:25:13,839 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 21:25:13,844 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 21:25:13,845 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 21:25:43,623 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 21:25:43,663 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 21:25:46,157 ERROR [7] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-22 21:25:46,166 ERROR [7] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-22 21:26:46,973 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 21:26:46,982 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 21:26:46,987 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 21:26:46,988 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 21:26:46,993 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 21:26:46,995 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 21:27:15,089 INFO  [4] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 21:27:24,317 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 21:28:49,575 ERROR [4] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-22 21:28:49,598 ERROR [4] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-22 22:03:07,511 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:03:07,520 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:03:07,525 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:03:07,527 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:03:07,530 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:03:07,533 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:03:27,280 INFO  [15] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:03:31,228 INFO  [15] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:04:46,801 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:04:46,813 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:04:46,829 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:04:46,832 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:04:46,838 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:04:46,843 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:05:11,950 INFO  [13] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:05:12,681 INFO  [13] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:06:29,314 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:06:29,324 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:06:29,333 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:06:29,334 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:06:29,339 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:06:29,342 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:07:36,185 INFO  [7] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:07:36,983 INFO  [7] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:10:49,989 INFO  [18] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:10:50,005 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:11:38,721 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:11:38,730 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:11:38,734 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:11:38,737 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:11:38,740 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:11:38,742 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:11:58,205 INFO  [4] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:11:58,245 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:13:08,759 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:13:08,770 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-22 22:13:08,784 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:13:08,786 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-22 22:13:08,791 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:13:08,796 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-22 22:13:26,070 INFO  [4] TweetAppAPI.Controllers.TweetAppController  App  GetUserTweet method called in TweetApp Controller 
+2022-05-22 22:13:26,104 INFO  [4] TweetAppAPI.Repository.AuthRepository  App  GetUserTweets Method Called in Tweet Repository 
+2022-05-22 22:13:28,485 ERROR [4] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-22 22:13:28,497 ERROR [4] Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware  App  An unhandled exception has occurred while executing the request. 
+System.Text.Json.JsonException: A possible object cycle was detected which is not supported. This can either be due to a cycle or if the object depth is larger than the maximum allowed depth of 32.
+   at System.Text.Json.ThrowHelper.ThrowInvalidOperationException_SerializerCycleDetected(Int32 maxDepth)
+   at System.Text.Json.JsonSerializer.Write(Utf8JsonWriter writer, Int32 originalWriterDepth, Int32 flushThreshold, JsonSerializerOptions options, WriteStack& state)
+   at System.Text.Json.JsonSerializer.WriteAsyncCore(Stream utf8Json, Object value, Type inputType, JsonSerializerOptions options, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter.WriteResponseBodyAsync(OutputFormatterWriteContext context, Encoding selectedEncoding)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|29_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)

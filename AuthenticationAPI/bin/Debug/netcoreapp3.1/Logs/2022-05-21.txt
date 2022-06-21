@@ -1,0 +1,83 @@
+2022-05-21 10:39:42,255 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 10:39:42,268 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 10:39:42,275 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 10:39:42,278 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 10:39:42,283 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 10:39:42,286 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 10:55:41,801 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 10:55:41,809 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 10:55:41,814 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 10:55:41,816 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 10:55:41,823 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 10:55:41,824 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 12:32:37,156 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 12:32:37,169 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 12:32:37,174 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 12:32:37,176 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 12:32:37,180 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 12:32:37,182 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 13:35:05,078 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 13:35:05,089 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 13:35:05,094 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 13:35:05,097 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 13:35:05,108 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 13:35:05,109 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 13:37:29,071 INFO  [5] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 13:37:37,850 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 13:37:37,862 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 13:37:38,839 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 14:14:18,982 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 14:14:18,991 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 14:14:18,997 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 14:14:18,998 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 14:14:19,002 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 14:14:19,004 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:18:44,309 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:18:44,326 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:18:44,332 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:18:44,334 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:18:44,338 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:18:44,340 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:22:57,915 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 19:23:00,081 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 19:23:00,098 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 19:23:01,124 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 19:50:00,641 INFO  [30] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 19:52:15,927 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:52:15,937 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:52:15,942 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:52:15,945 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:52:15,954 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:52:15,957 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:52:43,251 INFO  [6] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 19:52:44,494 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 19:52:44,515 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 19:52:46,276 INFO  [6] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 19:54:59,593 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:54:59,602 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 19:54:59,607 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:54:59,608 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 19:54:59,613 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:54:59,617 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 19:58:18,069 INFO  [5] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 19:58:18,565 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 19:58:18,588 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 19:58:19,748 INFO  [5] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 20:40:48,412 INFO  [18] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 20:40:48,982 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 20:40:48,984 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 20:40:49,045 INFO  [18] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 20:41:43,807 INFO  [23] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 20:41:44,476 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 20:41:44,479 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 20:41:44,517 INFO  [23] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 20:42:40,829 INFO  [27] TweetAppAPI.Controllers.TweetAppController  App  Login Method called in TweetApp Controller 
+2022-05-21 20:42:41,161 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  Login Method called in Auth Repository 
+2022-05-21 20:42:41,164 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  CheckUser Method Called in Auth Repository 
+2022-05-21 20:42:41,181 INFO  [27] TweetAppAPI.Repository.AuthRepository  App  Generate JsonWebToken 
+2022-05-21 20:57:14,526 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 20:57:14,535 INFO  [1] Microsoft.Hosting.Lifetime  App  Application started. Press Ctrl+C to shut down. 
+2022-05-21 20:57:14,539 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 20:57:14,542 INFO  [1] Microsoft.Hosting.Lifetime  App  Hosting environment: Development 
+2022-05-21 20:57:14,546 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
+2022-05-21 20:57:14,548 INFO  [1] Microsoft.Hosting.Lifetime  App  Content root path: C:\Users\890022\source\repos\AuthenticationAPI\AuthenticationAPI 
