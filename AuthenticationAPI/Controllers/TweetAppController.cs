@@ -21,13 +21,13 @@ namespace TweetAppAPI.Controllers
         }
 
 
-        [AllowAnonymous]
-        [HttpPost("[action]")]
-        public IActionResult Register([FromBody] User userRequest)
-        {
-                UserCreationStatus response = _authRepository.Register(userRequest);
-                return Ok(response);
-        }
+//         [AllowAnonymous]
+//         [HttpPost("[action]")]
+//         public IActionResult Register([FromBody] User userRequest)
+//         {
+//                 UserCreationStatus response = _authRepository.Register(userRequest);
+//                 return Ok(response);
+//         }
 
         [AllowAnonymous]
         [HttpPost("[action]")]
